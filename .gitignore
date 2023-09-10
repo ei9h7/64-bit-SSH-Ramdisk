@@ -1,0 +1,6 @@
+
+# macOS Files
+.DS_Store
+
+# Ramdisks
+SSH-Ramdisk-*/

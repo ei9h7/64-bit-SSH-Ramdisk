@@ -1,0 +1,5 @@
+***********************************************************************
+Welcome to the 64-bit iOS ramdisk by meowcat454!
+Run 'bash /usr/bin/mount_root' to mount the root filesystem on /mnt1
+Run 'bash /usr/bin/mount_data' to mount the data partition on /mnt2
+***********************************************************************
